@@ -1,0 +1,38 @@
+<annotation>
+	<folder>label</folder>
+	<filename>images (7).jpeg</filename>
+	<path>C:\Users\EBUBE\Desktop\label\images (7).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>635</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>179</xmin>
+			<ymin>23</ymin>
+			<xmax>293</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>347</xmin>
+			<ymin>108</ymin>
+			<xmax>427</xmax>
+			<ymax>277</ymax>
+		</bndbox>
+	</object>
+</annotation>
